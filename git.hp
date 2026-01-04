@@ -1,0 +1,22 @@
+userlhq     	   Lh*******     userlhq@126.com
+lhqforgit@163.com  LC*******
+lhqlsz-git         lc*******   lhqlovelsz@sina.com
+
+watt-toolkit 网页访问
+
+stop watt-toolkit git命令访问
+
+~/Documents/img/github.png
+
+git remote set-url origin https://[TOKEN]@github.com/userlhq/nodejs.git
+
+git config --global http.sslVerify false 
+or 
+停止加速
+
+
+
+
+
+
+
